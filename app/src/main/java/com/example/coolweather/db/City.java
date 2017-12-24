@@ -5,6 +5,7 @@ import org.litepal.crud.DataSupport;
 /**
  * Created by Zhou on 2017/12/21.
  * 存放市的数据信息
+ * city county province都是LitePal中的实体类
  */
 
 public class City extends DataSupport{
